@@ -22,7 +22,7 @@ zh: https://board.dingeral.com/
 
 ## Beta
 
-仍处于测试阶段。注意使用。
+仍处于测试阶段，注意使用。
 
 ## UI & UX
 
@@ -56,11 +56,11 @@ zh: https://board.dingeral.com/
 
 ![Raw notes](https://nullboard.io/images/nullboard-raw-notes.gif?x)
 
-可以识别以 https:// 和 http:// 开头的链接。它们将在鼠标悬停时“抖动”，并且可以通过右键单击菜单打开。
+可以识别以 https:// 和 http:// 开头的链接。它们将在鼠标悬停时“抖动”，并且可以通过右键单击菜单打开：
 
 ![Links on hover](https://nullboard.io/images/nullboard-links-on-hover.gif)
 
-按下 CapsLock 将突出显示所有链接，并使它们左键单击。
+按下 CapsLock 将突出显示所有链接，并使它们左键单击：
 
 ![Links reveal](https://nullboard.io/images/nullboard-links-reveal.gif)
 
@@ -68,7 +68,7 @@ zh: https://board.dingeral.com/
 
 ![List swapping](https://nullboard.io/images/nullboard-list-swap.gif?x)
 
-黑白主题，字号可变。
+黑白主题，字号可变：
 
 ![Theme and zoom](https://nullboard.io/images/nullboard-theme-and-zoom.gif?x)
 
